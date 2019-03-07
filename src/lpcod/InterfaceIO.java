@@ -9,7 +9,7 @@ package lpcod;
  *
  * @author Pablo Alonso Vazquez <pav.vigo@gmail.com>
  */
-public interface InterfacePeticiones {
+public interface InterfaceIO {
     
    public Double pedirNumeroDouble(String message);
    public Short pedirNumeroShort(String message); 
